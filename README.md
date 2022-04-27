@@ -13,12 +13,13 @@ The objective of this project was to develop a chatbot catered to museums, which
 Download from https://www.anaconda.com
 ```
 
-**Intall Pytorch**
+**Intall Pytorch with Mac**
 ```bash
-**Mac:** conda install pytorch torchvision torchaudio -c pytorch
+conda install pytorch torchvision torchaudio -c pytorch
 ```
+**Intall Pytorch with Windows**
 ```bash
-**Windows:** conda install pytorch torchvision torchaudio cpuonly -c pytorch
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
 
 **Clone the Repository**
