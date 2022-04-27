@@ -62,19 +62,26 @@ nltk.download('punkt')
 ```
 **NOTE:** If you are having trouble with this part. See this video for complete instructions on how to install and run the chatbot.  
 
+
 **Run application**
 Open VS Code, along with the cloned repo. Then run the app.py file. 
 
 ```bash
-python app.py
+app.py
 ```
 
 Test the following questions with the chatbot to see if they work:
 
 find mona lisa
+
 where is the mona lisa
+
 When was the Louvre built?
+
 How big is the Louvre?
+
 Louvre size?
+
 covid rules
+
 covid
