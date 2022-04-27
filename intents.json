@@ -1,0 +1,41 @@
+{
+    "intents": [ 
+      
+      {
+        "tag": "locate",
+        "patterns": [
+          "find mona lisa",
+          "where is the mona lisa"
+        ],
+        "responses": [
+          "First floor, in the Denon alley, between the Italian paintings of 1250-1800 and French paintings of 1780-1850.",
+          "On the first floor, near the Italian collection"
+        ]
+      },
+  
+      {
+        "tag": "architecture",
+        "patterns": [
+          "When was the Louvre built?",
+          "How big is the Louvre?",
+          "Louvre size?"
+        ],
+        "responses": [
+          "The Louvre was opened on 10 August 1793 and is 652,300 square feet",
+          "The Louvre was opened on 10 August 1793 and is 652,300 square feet",
+          "The Louvre was opened on 10 August 1793 and is 652,300 square feet"
+        ]
+      },
+      {
+        "tag": "rules",
+        "patterns": [
+          "covid rules",
+          "covid"
+        ],
+        "responses": [
+          "This museum has no covid restrictions, but please be conscious of those who are social distancing",
+          "This museum has no covid restrictions, but please be conscious of those who are social distancing"
+        ]
+      }
+    ]
+  }
