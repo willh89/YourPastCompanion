@@ -15,7 +15,10 @@ Download from https://www.anaconda.com
 
 **Intall Pytorch**
 ```bash
-conda install pytorch torchvision torchaudio -c pytorch
+**Mac:** conda install pytorch torchvision torchaudio -c pytorch
+```
+```bash
+**Windows:** conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
 
 **Clone the Repository**
