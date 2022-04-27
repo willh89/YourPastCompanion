@@ -60,7 +60,7 @@ import nltk
 ```bash
 nltk.download('punkt')
 ```
-**NOTE:** If you are having trouble with this part. See this video for complete instructions on how to install and run the chatbot.  
+**NOTE:** If you are having trouble with this part. See this video https://www.youtube.com/watch?v=gvVf-ouIla4 for complete instructions on how to install and run the chatbot.  
 
 
 **Run application**
