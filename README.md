@@ -10,7 +10,7 @@ The objective of this project was to develop a chatbot catered to museums, which
 
 **Install Anaconda**
 ```bash
-Download from https://www.anaconda.com
+Download from [Anaconda](https://www.anaconda.com) 
 ```
 
 **Intall Pytorch with Mac**
