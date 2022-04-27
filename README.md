@@ -28,7 +28,7 @@ Clone the repo, then create a virtual environment in either your desktop or down
 Please follow instructions below:
 
 ```bash
-git clone https://github.com/WillHughesGithub/YourPastCompanion.git
+git clone https://github.com/whdesigns/YourPastCompanion.git
 ```
 
 ```bash
@@ -70,7 +70,7 @@ Open VS Code, along with the cloned repo. Then run the app.py file.
 app.py
 ```
 
-Test the following questions with the chatbot to see if they work:
+**Test the following questions with the chatbot to see if they work:**
 
 find mona lisa
 
