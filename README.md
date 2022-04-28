@@ -11,7 +11,7 @@ The objective of this project was to develop a chatbot catered to museums, which
 
 **Install Anaconda**
 ```bash
-Download from https://www.anaconda.com
+Download from https://www.anaconda.com https://www.anaconda.com/
 ```
 
 **NOTE:** Check out this video https://www.youtube.com/watch?v=gvVf-ouIla4 for complete installation instructions once Anaconda is installed on your desktop. 
