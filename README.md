@@ -1,7 +1,5 @@
 # Your Past Companion
 
-William Hughes | Q14147939
-
 ## About
 
 The objective of this project was to develop a chatbot catered to museums, which present the user with short and informative facts about historical events or figures, which could work as a substitute for tour guides during the COVID pandemic. 
