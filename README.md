@@ -12,8 +12,9 @@ The objective of this project was to develop a chatbot catered to museums, which
 Download from: https://www.anaconda.com
 
 
-**NOTE:** Check out this video https://www.youtube.com/watch?v=gvVf-ouIla4 for complete installation instructions once Anaconda is installed on your desktop. 
+**NOTE:** [Check out this video](www.youtube.com/watch?v=gvVf-ouIla4/) for complete installation instructions once Anaconda is installed on your desktop. 
 
+[Check out this video](www.youtube.com/watch?v=gvVf-ouIla4/)
 
 **Intall Pytorch with Mac**
 ```bash
