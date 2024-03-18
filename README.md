@@ -6,9 +6,10 @@ The objective of this project was to develop a chatbot catered to museums, which
 
 ## Code
 
-Most of the project was constructed with Python, employing libraries like Flask and NLTK, installed via NPM. Additionally, a JSON file was generated to house all intents (queries and corresponding responses) for the chatbot. However, this aspect faced limitations as the bot wasn't originally designed with machine learning capabilities. The front-end was developed using HTML5 with CSS3 ensuring the site's visual appeal. 
+Most of the project was constructed with Python, employing libraries like Flask, Venv, and NLTK, installed via NPM. Additionally, a JSON file was generated to house all intents (queries and corresponding responses) for the chatbot. However, this aspect faced limitations as the bot wasn't originally designed with machine learning capabilities. The front-end was developed using HTML5 with CSS3 ensuring the site's visual appeal. 
 * Python
 * Flask
+* Venv
 * NLTK
 * NPM
 * HTML5
