@@ -2,7 +2,7 @@
 
 ## About
 
-The objective of this project was to develop a chatbot catered to museums, which present the user with short and informative facts about historical events or figures, which could work as a substitute for tour guides during the COVID pandemic. 
+The objective of this project was to develop a chatbot catered to museums, which present the user with short and informative facts about historical events or figures, which could act as a substitute for tour guides during the COVID-19 pandemic. 
 
 ## Local Configuration
 
