@@ -4,6 +4,18 @@
 
 The objective of this project was to develop a chatbot catered to museums, which present the user with short and informative facts about historical events or figures, which could act as a substitute for tour guides during the COVID-19 pandemic. 
 
+## Code
+
+Most of the project was constructed with Python, employing libraries like Flask and NLTK, installed via NPM. Additionally, a JSON file was generated to house all intents (queries and corresponding responses) for the chatbot. However, this aspect faced limitations as the bot wasn't originally designed with machine learning capabilities. The front-end was developed using HTML5 with CSS3 ensuring the site's visual appeal. 
+* Python
+* Flask
+* NLTK
+* NPM
+* HTML5
+* CSS3
+* JavaScript
+
+
 ## Local Configuration
 
 
